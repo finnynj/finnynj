@@ -17,9 +17,6 @@
 </a>
  </p>
 
-</br>
-</br>
-
 - 🔭 I’m currently working on **Zion Projects**.
 - 🌱 I’m currently learning **React & Python**.
 - 🤔 I’m looking for help with **controlling emotions**.
