@@ -3,9 +3,6 @@
 <a href="https://linkedin.com/in/finnynj">
   <img align="left" alt="Finny's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/finnynj">
-  <img align="left" alt="Finny's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 <a href="https://instagram.com/finnysjose/">
   <img align="left" alt="Finny's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -19,12 +16,12 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [Zion Projects](https://github.com/zionprojects).
-- 🌱 I’m currently learning React & Python.
-- 🤔 I’m looking for help with controlling emotions.
-- 💬 Ask me about Fronend engineering and related stuff.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/finnynj/).
-- ⚡ Fun fact: One of my favorite things to do is Music Programming.
+- 🔭 I’m currently working on **[Zion Projects](https://github.com/zionprojects)**.
+- 🌱 I’m currently learning **React & Python**.
+- 🤔 I’m looking for help with **controlling emotions**.
+- 💬 Ask me about **Fronend engineering and related stuff**.
+- 📫 How to reach me: **[Linkedin](https://www.linkedin.com/in/finnynj/)**.
+- ⚡ Fun fact: **One of my favorite things to do is Music Programming**.
 
 ### My current stack of Languages and Technologies: 
 
