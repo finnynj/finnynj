@@ -1,4 +1,4 @@
-## Hi there, I'm [Finny Jose!](https://finnynj.live) 👋
+## Hi there, I'm [Jose!](https://finnynj.live) 👋
 
 
 <img src="https://raw.githubusercontent.com/finnynj/finnynj/master/Group 1112.png">
