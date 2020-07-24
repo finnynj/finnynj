@@ -1,7 +1,7 @@
 ## Hi there, I'm [Jose!](https://finnynj.live) 👋
 
 
-<img src="https://raw.githubusercontent.com/finnynj/finnynj/master/Group 1112.png">
+<img src="https://raw.githubusercontent.com/finnynj/finnynj/master/banner-about.png">
 
 <a href="https://linkedin.com/in/finnynj">
   <img align="left" alt="Finny's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
