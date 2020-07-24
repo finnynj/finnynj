@@ -24,7 +24,7 @@
 - 📫 How to reach me: **[Linkedin](https://www.linkedin.com/in/finnynj/)**.
 - ⚡ Fun fact: **One of my favorite things to do is Music Programming**.
 
-### My current stack of Languages and Technologies: 
+### Languages and Technologies: 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
