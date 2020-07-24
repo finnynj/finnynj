@@ -19,12 +19,12 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Zion Projects
-- 🌱 I’m currently learning React & Python
-- 🤔 I’m looking for help with new teachnology
-- 💬 Ask me about Fronend engineering
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/finnynj/)
-- ⚡ Fun fact: I spend almost learning new technologies
+- 🔭 I’m currently working on [Zion Projects](https://github.com/zionprojects).
+- 🌱 I’m currently learning React & Python.
+- 🤔 I’m looking for help with controlling emotions.
+- 💬 Ask me about Fronend engineering and related stuff.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/finnynj/).
+- ⚡ Fun fact: One of my favorite things to do is Music Programming.
 
 ### My current stack of Languages and Technologies: 
 
