@@ -3,19 +3,8 @@
 <img src="https://raw.githubusercontent.com/finnynj/finnynj/master/banner-about.png">
 
 <p align="center">
-<a href="https://linkedin.com/in/finnynj">
-  <img align="left" alt="Finny's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://hankerrank.com/finnynj">
-  <img align="left" alt="Finny's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<a href="https://instagram.com/finnysjose/">
-  <img align="left" alt="Finny's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://behance.net/finnynj">
-  <img align="left" alt="Finny's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
-</a>
- </p>
+<p>sdasdasd</p>
+</p>
 </br>
 </br>
 
