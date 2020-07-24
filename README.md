@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/finnynj">
   <img alt="Finny's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>&nbsp
-<a href="https://hankerrank.com/finnynj">
+<a href="https://www.hackerrank.com/finnynj">
   <img alt="Finny's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>&nbsp
 <a href="https://instagram.com/finnysjose/">
