@@ -2,18 +2,20 @@
 
 <img src="https://raw.githubusercontent.com/finnynj/finnynj/master/banner-about.png">
 
+<p align="center">
 <a href="https://linkedin.com/in/finnynj">
-  <img align="center" alt="Finny's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="Finny's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://hankerrank.com/finnynj">
-  <img align="center" alt="Finny's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img alt="Finny's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <a href="https://instagram.com/finnysjose/">
-  <img align="center" alt="Finny's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img alt="Finny's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://behance.net/finnynj">
-  <img align="center" alt="Finny's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
+  <img alt="Finny's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
 </a>
+ </p>
 
 </br>
 </br>
