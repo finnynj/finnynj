@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on **[Zion Projects](https://github.com/zionprojects)**.
+- 🔭 I’m currently working on **Zion Projects**.
 - 🌱 I’m currently learning **React & Python**.
 - 🤔 I’m looking for help with **controlling emotions**.
 - 💬 Ask me about **Fronend engineering and related stuff**.
