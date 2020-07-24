@@ -1,6 +1,21 @@
 ## Hi, I'm [Jose!](https://finnynj.live) 👋  
 
-<img src="https://raw.githubusercontent.com/finnynj/finnynj/master/Group 1112.png">
+<img src="https://raw.githubusercontent.com/finnynj/finnynj/master/banner-about.png">
+
+<a href="https://linkedin.com/in/finnynj">
+  <img align="left" alt="Finny's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://hankerrank.com/finnynj">
+  <img align="left" alt="Finny's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+<a href="https://instagram.com/finnysjose/">
+  <img align="left" alt="Finny's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://behance.net/finnynj">
+  <img align="left" alt="Finny's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
+</a>
+</br>
+</br>
 
 - 🔭 I’m currently working on **Zion Projects**.
 - 🌱 I’m currently learning **React & Python**.
@@ -28,15 +43,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finnynj&theme=light&hide_langs_below=1" />
 </a>
 
-<a href="https://linkedin.com/in/finnynj">
-  <img align="left" alt="Finny's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://hankerrank.com/finnynj">
-  <img align="left" alt="Finny's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<a href="https://instagram.com/finnysjose/">
-  <img align="left" alt="Finny's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://behance.net/finnynj">
-  <img align="left" alt="Finny's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
-</a>
+
