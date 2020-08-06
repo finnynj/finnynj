@@ -1,6 +1,6 @@
 ## Hi, I'm [Jose!](https://finnynj.live) 👋  
 
-<img src="https://raw.githubusercontent.com/finnynj/finnynj/master/banner-about.png">
+<img src="https://raw.githubusercontent.com/finnynj/finnynj/master/banner-2.png">
 
 <p align="center">
 <a href="https://linkedin.com/in/finnynj">
