@@ -1,5 +1,3 @@
-## Hi, I'm [Jose!](https://finnynj.live) 👋  
-
 <img src="https://raw.githubusercontent.com/finnynj/finnynj/master/new_ban.png">
  
 <div align="center">
@@ -25,7 +23,7 @@
   
 <br/>  
 
-I'm a frontend developer 💻 and designer 🎨, always striving to learn more. Currently focusing on improving my programming skills, algorithm design & development. Have experience in front-end engineering, UI development and styling components and more.  
+<div align="center">I'm a frontend developer 💻 and designer 🎨, always striving to learn more. Currently focusing on improving my programming skills, algorithm design & development. Have experience in front-end engineering, UI development and styling components and more.</div>  
   
 
 **<div align="center">I always want to learn more, do more, and be more. I'm also a firm believer that "we should never settle".</div>**  
