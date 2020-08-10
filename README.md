@@ -1,6 +1,6 @@
 ## Hi, I'm [Jose!](https://finnynj.live) 👋  
 
-<img src="https://raw.githubusercontent.com/finnynj/finnynj/master/banner-2.png">
+<img src="https://raw.githubusercontent.com/finnynj/finnynj/master/new_ban.png">
  
 <div align="center">
 <a href="https://github.com/finnynj" target="_blank">
