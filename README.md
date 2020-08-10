@@ -56,7 +56,7 @@
  
 **<div align="center">Language Stats</div>** 
 <br/>
-<a href="https://github.com/finnynj">
+<a align="center" href="https://github.com/finnynj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finnynj&theme=light&hide_langs_below=1" />
 </a>
 </td></tr></table>
@@ -64,7 +64,7 @@
   
 <div align="center">Activity Stats</div>
 <br/>
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=finnynj&show_icons=true&count_private=true" align="left" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=finnynj&show_icons=true&count_private=true" align="left" /></div>  
 <br/>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=finnynj&&style=flat-square&color=red&label=Profile+Views" align="center" />                                                         
