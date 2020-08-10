@@ -23,12 +23,12 @@
   
 <br/>  
 
-<div align="center">I'm a frontend developer 💻 and designer 🎨, always striving to learn more. Currently focusing on improving my programming skills, algorithm design & development.Some technologies I enjoy working with include ReactJS, RESTful API, and Python. Have experience in front-end engineering, UI development, styling components and more.</div>  
+<div align="center">I'm a frontend developer 💻 and designer 🎨, always striving to learn more. Currently focusing on improving my programming skills, algorithm design & development. Some technologies I enjoy working with include ReactJS, RESTful API, and Python. Have experience in front-end engineering, UI development, styling components and more.</div>  
   
 
 **<div align="center">I always want to learn more, do more, and be more. I'm also a firm believer that "we should never settle".</div>**  
 
-### Languages and Technologies: 
+### Languages and Technologies 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
