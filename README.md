@@ -54,10 +54,7 @@
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div></td><td valign="top" width="33%">
  
- **<div align="center">Activity Stats</div>** 
-<br/>
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=finnynj&show_icons=true&count_private=true" align="left" /></div>  
-</td><td valign="top" width="33%">
+ 
 
 **<div align="center">Language Stats</div>** 
 <br/>
@@ -67,6 +64,10 @@
 </td></tr></table>
 
 <br/>  
+**<div align="center">Activity Stats</div>** 
+<br/>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=finnynj&show_icons=true&count_private=true" align="left" /></div>  
+</td><td valign="top" width="33%">
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=finnynj&&style=flat-square&color=red&label=Profile+Views" align="center" />                                                         
