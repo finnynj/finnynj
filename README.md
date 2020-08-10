@@ -69,8 +69,10 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=finnynj&&style=for-the-badge&color=red&label=Profile+Views" align="center" />
+<img src="https://komarev.com/ghpvc/?username=finnynj&&style=flat-square&color=red&label=Profile+Views" align="center" />
 <img src="https://img.shields.io/github/followers/finnynj?logo=github&style=for-the-badge" align="center" />
+<img src="https://img.shields.io/github/last-commit/finnynj/finnynj?style=for-the-badge align="center"" />
+ 
 
 </div>  
 
