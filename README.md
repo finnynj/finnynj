@@ -31,7 +31,9 @@
 
 <table><tr><td valign="top" width="33%">
 
-Languages and Technologies  
+
+**<div align="center">Languages and Technologies</div>** 
+<br/>
 <div align="center">  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -52,18 +54,19 @@ Languages and Technologies
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div></td><td valign="top" width="33%">
  
-Activity Stats  
+ **<div align="center">Activity Stats</div>** 
+<br/>
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=finnynj&show_icons=true&count_private=true" align="left" /></div>  
 </td><td valign="top" width="33%">
 
-Language Stats
+**<div align="center">Language Stats</div>** 
+<br/>
 <a href="https://github.com/finnynj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finnynj&theme=light&hide_langs_below=1" />
 </a>
 </td></tr></table>
 
 <br/>  
-
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=finnynj&&style=flat-square&color=red&label=Profile+Views" align="center" />
