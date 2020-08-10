@@ -25,12 +25,10 @@
   
 <br/>  
 
-- 🔭 I’m currently working on **Zion Projects**.
-- 🌱 I’m currently learning **React & Python**.
-- 🤔 I’m looking for help with **controlling emotions**.
-- 💬 Ask me about **Fronend engineering and related stuff**.
-- 📫 How to reach me: **[Linkedin](https://www.linkedin.com/in/finnynj/)**.
-- ⚡ Fun fact: **One of my favorite things to do is Music Programming**.
+I'm a frontend developer 💻 and designer 🎨, always striving to learn more. Currently focusing on improving my programming skills, algorithm design & development. Have experience in front-end engineering, UI development and styling components and more.  
+  
+
+**<div align="center">I always want to learn more, do more, and be more. I'm also a firm believer that "we should never settle".</div>**  
 
 ### Languages and Technologies: 
 
