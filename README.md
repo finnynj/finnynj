@@ -57,14 +57,14 @@
 **<div align="center">Language Stats</div>** 
 <br/>
 <a align="center" href="https://github.com/finnynj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finnynj&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finnynj&theme=light&hide_langs_below=1" align="center"/>
 </a>
 </td></tr></table>
 
   
 <div align="center">Activity Stats</div>
 <br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=finnynj&show_icons=true&count_private=true" align="left" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=finnynj&show_icons=true&count_private=true" align="center" /></div>  
 <br/>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=finnynj&&style=flat-square&color=red&label=Profile+Views" align="center" />                                                         
