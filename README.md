@@ -54,8 +54,7 @@
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div></td><td valign="top" width="33%">
  
-**<div align="center">Language Stats</div>** 
-<br/>
+
 <div align="center" >
 <a href="https://github.com/finnynj">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finnynj&theme=light&hide_langs_below=1" align="center"/>
@@ -63,8 +62,7 @@
 </div></td></tr></table>
 
   
-**<div align="center">Activity Stats</div>**
-<br/>
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=finnynj&show_icons=true&count_private=true" align="center" /></div>  
 <br/>
 <div align="center">
