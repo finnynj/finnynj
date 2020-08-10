@@ -52,14 +52,14 @@
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="Webpack" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="50" />  
-</div></td><td valign="top" width="33%"></table>
+</div></td><td valign="top" width="33%">
  
 
 <div align="center" >
 <a href="https://github.com/finnynj">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finnynj&theme=light&hide_langs_below=1" align="center"/>
 </a>
-</div>
+</div></td></tr></table>
 
   
 
