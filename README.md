@@ -52,7 +52,7 @@
 </a>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=finnynj&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=finnynj&&style=flat-square&color=red" align="center" />
 </div>  
 
 
