@@ -57,11 +57,9 @@
 
 <div align="center" >
 <a href="https://github.com/finnynj">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finnynj&theme=light&hide_langs_below=1" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finnynj&theme=graywhite&hide_langs_below=1&hide_border=true" align="center"/>
 </a>
 </div></td></tr></table>
-
-  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=finnynj&show_icons=true&count_private=true" align="center" /></div>  
 <br/>
