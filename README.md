@@ -32,7 +32,7 @@
 <table><tr><td valign="top" width="33%">
 
 
-**<div align="center">Languages and Technologies</div>** 
+### **<div align="center">Languages and Technologies</div>**
 <br/>
 <div align="center">  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React" height="50" />  
@@ -66,5 +66,3 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=finnynj&&style=flat-square&color=red&label=Profile+Views" align="center" />                                                         
 </div>  
-
-
