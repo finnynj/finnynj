@@ -1,5 +1,6 @@
 <div align="left">
-  <h2>Hey there! 👋</h2>
+    <h2>Hey there! 👋</h2>
+  <img src="https://komarev.com/ghpvc/?username=finnynj&&style=flat-square&color=red&label=Profile+Views" alt="Profile Views" />
   <p>I'm a frontend developer 💻 and designer 🎨 who loves turning caffeine and creativity into cool digital experiences. Whether it's ReactJS or Flutter, I'm always cooking up something fun and functional. Obsessed with making the web a little more awesome each day. 🚀😎</p>
 </div>
 
@@ -33,10 +34,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=finnynj&&style=flat-square&color=red&label=Profile+Views" alt="Profile Views" />
-</div>
 
 <div align="center">
   <p><strong>"Always learning, creating, and pushing the boundaries. Never settle!" 🚀</strong></p>
