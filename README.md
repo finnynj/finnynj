@@ -1,13 +1,13 @@
-<div align="center">
+<div align="left">
   <h2>Hey there! 👋</h2>
-  <p>I'm a frontend developer 💻 and designer 🎨 who loves turning caffeine and creativity into cool digital experiences. Whether it's ReactJS or Flutter, I'm always cooking up something fun and functional. Obsessed with making the web a little more awesome each day—let's build something epic together! 🚀😎</p>
+  <p>I'm a frontend developer 💻 and designer 🎨 who loves turning caffeine and creativity into cool digital experiences. Whether it's ReactJS or Flutter, I'm always cooking up something fun and functional. Obsessed with making the web a little more awesome each day. 🚀😎</p>
 </div>
 
 ---
 
 <div align="center">
   <h3>🔧 Languages & Tech I Use</h3>
-  <div>
+  <div style="background-color:#f0f0f0; padding: 20px; border-radius: 10px;">
     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" />
     <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" />
     <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100" />
