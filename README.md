@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <h3>🔧 Languages & Tech I Use</h3>
+  <h3>Languages & tech I use</h3>
   <div style="background-color:#f0f0f0; padding: 20px; border-radius: 10px;">
     <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" />
     <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" />
